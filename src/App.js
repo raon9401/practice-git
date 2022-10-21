@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React<p>새로운 브랜치 작성완료</p>
         </a>
       </header>
     </div>
